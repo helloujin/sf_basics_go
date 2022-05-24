@@ -1,6 +1,6 @@
 package maths
 
+var a int = 33
+var b int = 11
 
-func Sum (a int, b int) int {
-	return a+b
-}
+var Sum int = a + b
